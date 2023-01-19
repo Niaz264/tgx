@@ -1,1 +1,1 @@
-FROM eaustin6/rcg:latest
+FROM eaustin6/rcgv:latest
